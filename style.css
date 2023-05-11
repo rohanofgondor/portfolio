@@ -1,15 +1,22 @@
+body {
+    background-color:black;
+    display:block
+}
+ 
 div {
     
     font-family:monospace, sans-serif;
     text-align: center;
-    color:lightslategray ;
+    color:white ;
     font-size: 50px;
+
 }
 
 p {
     font-family:monospace, sans-serif;
     text-align: center;
-    
+    color:white ;
+
 }
 
 .head {
@@ -18,5 +25,5 @@ p {
     margin-left: auto;
     margin-right: auto;
     width: 10%;
-    
+
 }
